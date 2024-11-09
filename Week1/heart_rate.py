@@ -11,8 +11,8 @@ user_age = int(input('enter your age: '))
 
 maximum_heart_rate_per_min = 220 - user_age
 
-max_exercise = 0.85 * maximum_heart_rate_per_min
-min_exercise = 0.65 * maximum_heart_rate_per_min
+max_exercise = int(0.85 * maximum_heart_rate_per_min)
+min_exercise = int(0.65 * maximum_heart_rate_per_min)
 
 print(f"When you exercise to strengthen your heart, you should"
       f"keep your heart rate between {min_exercise} and {max_exercise} beats per minute.")
