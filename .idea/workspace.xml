@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bc8d2c1-0e14-49e6-9989-8c906dbe328e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week1/working_with_files/courses.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/working_with_files/files_demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week1/working_with_files/strings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week2/assignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week2/get_initials.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week2/sentences.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week2/writing_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1/discount.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/discount.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1/tire_volume.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/tire_volume.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week1/workingwithdatetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week1/workingwithdatetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/test_weather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/test_words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/weather.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/words.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,73 +56,43 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in function.py.executor": "Run",
+    "Python tests.Python tests in test_weather.py.executor": "Run",
+    "Python tests.Python tests in test_words.py.executor": "Run",
     "Python.assignment.executor": "Run",
     "Python.cone_volume.executor": "Run",
     "Python.discount.executor": "Run",
     "Python.files_demo.executor": "Run",
+    "Python.function.executor": "Run",
     "Python.get_initials.executor": "Run",
     "Python.sentences.executor": "Run",
     "Python.strings.executor": "Run",
     "Python.test.executor": "Run",
     "Python.tire_volume.executor": "Run",
+    "Python.weather.executor": "Run",
     "Python.workingwithdatetime.executor": "Run",
     "Python.writing_functions.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "settings.sync"
   }
 }]]></component>
-  <component name="QodanaHighlightedReportService">
-    <option name="localRunNotPublishedPersistedInfo">
-      <LocalReportPersistedInfo>
-        <option name="path" value="C:\Users\Osasere\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
-        <option name="reportGuid" value="25de9d49-d76f-4deb-8944-07b79bb62483" />
-        <option name="reportName" value="CSE111-Programming-with-Functions/qodana/2024-11-22" />
-      </LocalReportPersistedInfo>
-    </option>
-  </component>
-  <component name="QodanaIsSelectedPersistenceService">
-    <option name="selectedOrLoading" value="true" />
-  </component>
   <component name="QodanaReportsService">
     <option name="descriptions">
       <ReportDescription localRun="true" path="C:\Users\Osasere\AppData\Local\Temp\qodana_output\qodana.sarif.json" reportGuid="25de9d49-d76f-4deb-8944-07b79bb62483" reportId="CSE111-Programming-with-Functions/qodana/2024-11-22" />
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="sentences" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="CSE111-Programming-with-Functions" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week2/sentences.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.sentences" />
-      </list>
-    </recent_temporary>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Programming\osas\CSE111-Programming-with-Functions\Week3" />
+    </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-fb887030ada0-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.21565.199" />
       </set>
     </attachedChunks>
   </component>
