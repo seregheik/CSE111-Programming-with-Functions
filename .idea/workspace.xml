@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1bc8d2c1-0e14-49e6-9989-8c906dbe328e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Week3/function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week3/test_weather.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week3/test_words.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week3/weather.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week3/words.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/approximation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/example-2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/test_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/test_names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/test_water_flow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3/water_flow.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week3/weather.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week3/weather.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,12 +60,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for test_address.test_extract_cty.executor": "Run",
+    "Python tests.Python tests for test_water_flow.test_pressure_gain_from_water_height.executor": "Run",
+    "Python tests.Python tests for test_water_flow.test_pressure_loss_from_fittings.executor": "Run",
+    "Python tests.Python tests for test_water_flow.test_pressure_loss_from_pipe.executor": "Run",
+    "Python tests.Python tests for test_water_flow.test_pressure_loss_from_pipe_reduction.executor": "Run",
+    "Python tests.Python tests for test_water_flow.test_reynolds_number.executor": "Run",
     "Python tests.Python tests in function.py.executor": "Run",
+    "Python tests.Python tests in test_address.py.executor": "Run",
+    "Python tests.Python tests in test_names.py.executor": "Run",
+    "Python tests.Python tests in test_water_flow.py.executor": "Run",
     "Python tests.Python tests in test_weather.py.executor": "Run",
     "Python tests.Python tests in test_words.py.executor": "Run",
+    "Python.approximation.executor": "Run",
     "Python.assignment.executor": "Run",
     "Python.cone_volume.executor": "Run",
     "Python.discount.executor": "Run",
+    "Python.example-2.executor": "Debug",
     "Python.files_demo.executor": "Run",
     "Python.function.executor": "Run",
     "Python.get_initials.executor": "Run",
@@ -69,11 +84,13 @@
     "Python.strings.executor": "Run",
     "Python.test.executor": "Run",
     "Python.tire_volume.executor": "Run",
+    "Python.water_flow.executor": "Run",
     "Python.weather.executor": "Run",
     "Python.workingwithdatetime.executor": "Run",
     "Python.writing_functions.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "settings.sync"
@@ -106,5 +123,16 @@
       <updated>1731505304095</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Week3/example-2.py</url>
+          <line>34</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
